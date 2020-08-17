@@ -1,8 +1,8 @@
 import React from "react";
 import { connect } from "react-redux";
 import { Row, Col } from "antd";
-import TrafficStatsGraphic from "./trafficstats/trafficstatsgraphic";
-import TrafficAndSales from "./trafficstats/trafficandsales";
+// import TrafficStatsGraphic from "./trafficstats/trafficstatsgraphic";
+// import TrafficAndSales from "./trafficstats/trafficandsales";
 import ResponsiveContainerWrapper from "../../components/charts/ResponsiveContainer";
 import LineChart from "../../components/charts/LineChart";
 import PieChart from "../../components/charts/PieChart";
